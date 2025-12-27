@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Aryan Goyal
+# Hi there 👋, I'm Aryan Goyaliya
 
 🎓 **CSE Student at IIIT Delhi | Aspiring AI Engineer | Tech & Systems Enthusiast**
 
